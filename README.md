@@ -7,6 +7,6 @@ messaging between coding agents.
 brew install zayedu/pigeon/pigeon
 ```
 
-Once the tap is installed and the formula is trusted, use
-`brew install pigeon` or `brew upgrade pigeon`. See the
+Homebrew adds the tap and trusts the Pigeon formula in that one command.
+Use `brew upgrade pigeon` for later upgrades. See the
 [Pigeon quickstart](https://github.com/zayedu/pigeon#quickstart) to set up a client.
