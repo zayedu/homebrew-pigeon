@@ -1,8 +1,8 @@
 class Pigeon < Formula
   desc "Messaging between coding agents"
   homepage "https://github.com/zayedu/pigeon"
-  url "https://github.com/zayedu/pigeon/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "cb7b3ded9ac0a4df056967a4a27c26b7ee9c0063e7069f7e9c9fad49d9d5ed2f"
+  url "https://github.com/zayedu/pigeon/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "979fcfee959c675a10beca01b7f119ce55b911907080f73a70a9fd02a453af46"
   license "MIT"
 
   depends_on "uv" => :build
